@@ -249,3 +249,5 @@ https://lhttp.qingting.fm/live/20003/64k.mp3?app_id=web&ts=616eb0e5&sign=f099930
 https://lhttp.qingting.fm/live/20212227/64k.mp3?app_id=web&ts=616eb405&sign=85397b38820279a9fc05f3fdc7b63d54
 #EXTINF:-1 tvg-id="17" tvg-name="中国之声" tvg-logo="" group-title="广播",中国之声
 https://lhttp.qingting.fm/live/386/64k.mp3?app_id=web&ts=616eb700&sign=855293fd83654e52c96ec28e2e8084b4 
+#EXTINF:-1 tvg-id="17" tvg-name="音乐之声" tvg-logo="" group-title="广播",音乐之声
+https://lhttp.qingting.fm/live/4804/64k.mp3?app_id=web&ts=616eb7a5&sign=7be97b572d9f13c8e6c119e284a0d3cc 
