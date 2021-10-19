@@ -265,3 +265,5 @@ https://live.ximalaya.com/radio-first-page-app/live/525/64.m3u8?transcode=ts
 https://live.ximalaya.com/radio-first-page-app/live/91/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-id="17" tvg-name="CNR音乐之声" tvg-logo="" group-title="广播",CNR音乐之声
 https://live.ximalaya.com/radio-first-page-app/live/12/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="17" tvg-name="音乐广播895" tvg-logo="" group-title="广播",怀旧音乐广播
+https://live.ximalaya.com/radio-first-page-app/live/2629/64.m3u8?transcode=ts
