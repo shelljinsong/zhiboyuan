@@ -253,3 +253,5 @@ https://lhttp.qingting.fm/live/386/64k.mp3?app_id=web&ts=616eb700&sign=855293fd8
 https://lhttp.qingting.fm/live/4804/64k.mp3?app_id=web&ts=616eb7a5&sign=7be97b572d9f13c8e6c119e284a0d3cc 
 #EXTINF:-1 tvg-id="17" tvg-name="中国国际广播电台环球资讯广播" tvg-logo="" group-title="广播",中国国际广播电台环球资讯广播
 https://lhttp.qingting.fm/live/1005/64k.mp3?app_id=web&ts=616eb85c&sign=5cd5c594753a60059a4581a41af52433 
+#EXTINF:-1 tvg-id="17" tvg-name="经济之声" tvg-logo="" group-title="广播",中央人民广播电台经济之声
+https://lhttp.qingting.fm/live/387/64k.mp3?app_id=web&ts=616eb8da&sign=ff14545cadf0452535df3919a7e0fa5e 
