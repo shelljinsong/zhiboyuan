@@ -245,3 +245,5 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="音乐摩天轮" tvg-logo="" group-title="广播",音乐摩天轮
 https://lhttp.qingting.fm/live/20003/64k.mp3?app_id=web&ts=616eb0e5&sign=f0999308589e923ed0eb13a1a8375a7f 
+#EXTINF:-1 tvg-id="17" tvg-name="京津冀新闻动态" tvg-logo="" group-title="广播",经典FM1008
+https://lhttp.qingting.fm/live/20212227/64k.mp3?app_id=web&ts=616eb405&sign=85397b38820279a9fc05f3fdc7b63d54
