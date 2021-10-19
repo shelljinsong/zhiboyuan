@@ -267,3 +267,11 @@ https://live.ximalaya.com/radio-first-page-app/live/2718/64.m3u8?transcode=ts
 https://live.ximalaya.com/radio-first-page-app/live/121/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-id="17" tvg-name="889年代" tvg-logo="" group-title="广播",音乐怀旧
 https://live.ximalaya.com/radio-first-page-app/live/2724/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="17" tvg-name="河北音乐广播" tvg-logo="" group-title="广播",河北音乐广播
+https://live.ximalaya.com/radio-first-page-app/live/494/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="17" tvg-name="河北新闻广播" tvg-logo="" group-title="广播",河北新闻广播
+https://live.ximalaya.com/radio-first-page-app/live/496/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="17" tvg-name="河北交通广播" tvg-logo="" group-title="广播",河北交通广播
+https://live.ximalaya.com/radio-first-page-app/live/498/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="17" tvg-name="河北故事广播" tvg-logo="" group-title="广播",河北故事广播
+https://live.ximalaya.com/radio-first-page-app/live/497/64.m3u8?transcode=ts
