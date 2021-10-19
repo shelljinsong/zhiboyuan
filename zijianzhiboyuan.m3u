@@ -269,3 +269,5 @@ https://live.ximalaya.com/radio-first-page-app/live/12/64.m3u8?transcode=ts
 https://live.ximalaya.com/radio-first-page-app/live/2629/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-id="17" tvg-name="CNR中国交通广播" tvg-logo="" group-title="广播",CNR中国交通广播
 https://live.ximalaya.com/radio-first-page-app/live/45/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="17" tvg-name="CNR香港之声" tvg-logo="" group-title="广播",CNR香港之声
+https://live.ximalaya.com/radio-first-page-app/live/44/64.m3u8?transcode=ts
