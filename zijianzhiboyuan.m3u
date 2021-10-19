@@ -244,18 +244,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视yamcode",#EXTINF-1CCTV17农业农村高清4M
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="FM 100.5" tvg-logo="" group-title="广播",音乐摩天轮
-https://lhttp.qingting.fm/live/20003/64k.mp3?app_id=web&ts=616eb0e5&sign=f0999308589e923ed0eb13a1a8375a7f 
-#EXTINF:-1 tvg-id="17" tvg-name="FM1008" tvg-logo="" group-title="广播",京津冀新闻动态
-https://lhttp.qingting.fm/live/20212227/64k.mp3?app_id=web&ts=616eb405&sign=85397b38820279a9fc05f3fdc7b63d54
-#EXTINF:-1 tvg-id="17" tvg-name="中国之声" tvg-logo="" group-title="广播",中国之声
-https://lhttp.qingting.fm/live/386/64k.mp3?app_id=web&ts=616eb700&sign=855293fd83654e52c96ec28e2e8084b4 
-#EXTINF:-1 tvg-id="17" tvg-name="音乐之声" tvg-logo="" group-title="广播",音乐之声
-https://lhttp.qingting.fm/live/4804/64k.mp3?app_id=web&ts=616eb7a5&sign=7be97b572d9f13c8e6c119e284a0d3cc 
-#EXTINF:-1 tvg-id="17" tvg-name="中国国际广播电台环球资讯广播" tvg-logo="" group-title="广播",中国国际广播电台环球资讯广播
-https://lhttp.qingting.fm/live/1005/64k.mp3?app_id=web&ts=616eb85c&sign=5cd5c594753a60059a4581a41af52433 
-#EXTINF:-1 tvg-id="17" tvg-name="经济之声" tvg-logo="" group-title="广播",中央人民广播电台经济之声
-https://lhttp.qingting.fm/live/387/64k.mp3?app_id=web&ts=616eb8da&sign=ff14545cadf0452535df3919a7e0fa5e 
-#EXTINF:-1 tvg-id="17" tvg-name="FM 100.5" tvg-logo="" group-title="广播",音乐摩天轮
 https://live.ximalaya.com/radio-first-page-app/live/121/64.m3u8?transcode=ts 
 #EXTINF:-1 tvg-id="17" tvg-name="沧州1058" tvg-logo="" group-title="广播",汽车音乐广播
 https://live.ximalaya.com/radio-first-page-app/live/121/64.m3u8?transcode=ts
