@@ -243,3 +243,5 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视yamcode",#EXTINF-1CCTV17农业农村高清4M
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="广播" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视广播",#EXTINF-1广播农业农村高清4M
+https://lhttp.qingting.fm/live/20003/64k.mp3?app_id=web&ts=616eb0e5&sign=f0999308589e923ed0eb13a1a8375a7f 
