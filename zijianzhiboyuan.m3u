@@ -71,3 +71,5 @@ http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u
 http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台",天映电影
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
