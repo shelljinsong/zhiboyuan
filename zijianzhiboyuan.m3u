@@ -261,3 +261,5 @@ https://live.ximalaya.com/radio-first-page-app/live/45/64.m3u8?transcode=ts
 https://live.ximalaya.com/radio-first-page-app/live/44/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-id="17" tvg-name="京津冀广播" tvg-logo="" group-title="广播",京津冀广播
 https://live.ximalaya.com/radio-first-page-app/live/91/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="17" tvg-name="FM94.8" tvg-logo="" group-title="广播",经典音乐广播
+https://live.ximalaya.com/radio-first-page-app/live/2718/64.m3u8?transcode=ts
