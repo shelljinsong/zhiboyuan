@@ -257,3 +257,5 @@ https://lhttp.qingting.fm/live/1005/64k.mp3?app_id=web&ts=616eb85c&sign=5cd5c594
 https://lhttp.qingting.fm/live/387/64k.mp3?app_id=web&ts=616eb8da&sign=ff14545cadf0452535df3919a7e0fa5e 
 #EXTINF:-1 tvg-id="17" tvg-name="FM 100.5" tvg-logo="" group-title="广播",音乐摩天轮
 https://live.ximalaya.com/radio-first-page-app/live/121/64.m3u8?transcode=ts 
+#EXTINF:-1 tvg-id="17" tvg-name="沧州1058" tvg-logo="" group-title="广播",汽车音乐广播
+https://live.ximalaya.com/radio-first-page-app/live/121/64.m3u8?transcode=ts
