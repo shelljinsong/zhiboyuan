@@ -275,3 +275,5 @@ https://live.ximalaya.com/radio-first-page-app/live/496/64.m3u8?transcode=ts
 https://live.ximalaya.com/radio-first-page-app/live/498/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-id="17" tvg-name="河北故事广播" tvg-logo="" group-title="广播",河北故事广播
 https://live.ximalaya.com/radio-first-page-app/live/497/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="17" tvg-name="天津交通广播" tvg-logo="" group-title="广播",天津交通广播
+http://radio2.wisetv.com.cn/tjradio/JIAOTONG/playlist.m3u8?wsSecret=03b46bbf17701f9208f220ea8eb381eb&wsTime=616ff30d&GUID=a32c855d6ca3d6e8f3c0b8d045d01651&wsSession=8ab00d69e6f23576c014ad6c-163472667005528&wsIPSercert=abe8ff2d919662b8951c510f21df2763&wsMonitor=0
