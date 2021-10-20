@@ -277,3 +277,25 @@ https://live.ximalaya.com/radio-first-page-app/live/498/64.m3u8?transcode=ts
 https://live.ximalaya.com/radio-first-page-app/live/497/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-id="17" tvg-name="天津交通广播" tvg-logo="" group-title="广播",天津交通广播
 http://radio2.wisetv.com.cn/tjradio/JIAOTONG/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="天津相声广播" tvg-logo="" group-title="广播",天津相声广播
+http://radio2.wisetv.com.cn/tjradio/XIANGSHENG/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="天津新闻广播" tvg-logo="" group-title="广播",天津新闻广播
+http://radio2.wisetv.com.cn/tjradio/XINWEN/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="天津经济广播" tvg-logo="" group-title="广播",天津经济广播
+http://radio2.wisetv.com.cn/tjradio/JINGJI/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="天津生活广播" tvg-logo="" group-title="广播",天津生活广播
+http://radio3.wisetv.com.cn/tjradio/SHENGHUO/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="天津文艺广播" tvg-logo="" group-title="广播",天津文艺广播
+http://radioback3-record.wisetv.com.cn/tjradio/WENYI/1.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="天津音乐广播" tvg-logo="" group-title="广播",天津音乐广播
+http://radio2.wisetv.com.cn/tjradio/YINYUE/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="天津小说广播" tvg-logo="" group-title="广播",天津小说广播
+http://radio3.wisetv.com.cn/tjradio/XIAOSHUO/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="天津滨海广播" tvg-logo="" group-title="广播",天津滨海广播
+http://radio3.wisetv.com.cn/tjradio/BINHAI/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="天津动听885广播" tvg-logo="" group-title="广播",天津动听885广播
+http://radio2.wisetv.com.cn/tjradio/NONGCUN/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="天津新闻广播" tvg-logo="" group-title="广播",天津新闻广播
+http://radio3.wisetv.com.cn/tjradio/TJXW/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="京津冀之声" tvg-logo="" group-title="广播",京津冀之声
+http://radio2.wisetv.com.cn/tjradio/jingjinji.stream/playlist.m3u8
