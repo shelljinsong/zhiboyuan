@@ -276,7 +276,7 @@ https://live.ximalaya.com/radio-first-page-app/live/498/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-id="17" tvg-name="河北故事广播" tvg-logo="" group-title="广播",河北故事广播
 https://live.ximalaya.com/radio-first-page-app/live/497/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-id="17" tvg-name="天津交通广播" tvg-logo="" group-title="广播",天津交通广播
-http://radio2.wisetv.com.cn/tjradio/JIAOTONG/playlist.m3u8
+http://radio2.wisetv.com.cn/tjradio/JIAOTONG/playlist.m3u8?wsSecret=b426b9237aa7bebebdc1aa6cfc441bd6&wsTime=61709053&GUID=43e9baba8974b082ce1a913740647c03&wsSession=71030bf7a1c7aecdfe24a21d-163476693200910&wsIPSercert=932a393a1ce387a04c16eb541b2a9f26&wsMonitor=0
 #EXTINF:-1 tvg-id="17" tvg-name="天津相声广播" tvg-logo="" group-title="广播",天津相声广播
 http://radio2.wisetv.com.cn/tjradio/XIANGSHENG/playlist.m3u8?wsSecret=d65d8cc48b29ac7e935dac834e26e212&wsTime=616ff880&GUID=7903f3290595f7f4664f5920ee9dd743&wsSession=14a1d56d77216469d2e506eb-163472806478949&wsIPSercert=abe8ff2d919662b8951c510f21df2763&wsMonitor=0
 #EXTINF:-1 tvg-id="17" tvg-name="天津新闻广播" tvg-logo="" group-title="广播",天津新闻广播
