@@ -689,3 +689,5 @@ https://live.ximalaya.com/radio-first-page-app/live/496/64.m3u8?transcode=ts
 https://live.ximalaya.com/radio-first-page-app/live/498/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-id="17" tvg-name="天津相声广播" tvg-logo="" group-title="广播",天津相声广播
 http://radio2.wisetv.com.cn/tjradio/XIANGSHENG/playlist.m3u8?wsSecret=2f7961a48a705506e4a6182e3914dae0&wsTime=6172dd6b&GUID=d4ce5c08b9f9e3c7b52abe2fb86ff113&wsSession=58095961b3e5c7061a72dded-163491773952927&wsIPSercert=4858cd6e094ad75e4cadfdbc2739a300&wsMonitor=0
+#EXTINF:-1 tvg-id="17" tvg-name="天津" tvg-logo="" group-title="广播",天津
+http://live2.wisetv.com.cn/TJIPTV/TJXW/playlist.m3u8?wsSecret=c9ce246a91ed316645c5891d167aa3ca&wsTime=617326ee&GUID=43be1627b23043a431cf14fcba143461&wsSession=6f765b68b7d42ff534fa9839-163493655847518&wsIPSercert=f93f47a0fdb049546f322031db4fff84&wsMonitor=0
