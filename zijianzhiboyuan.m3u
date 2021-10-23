@@ -712,16 +712,15 @@ https://live.ximalaya.com/radio-first-page-app/live/498/64.m3u8?transcode=ts
 http://radio3.wisetv.com.cn/tjradio/SHENGHUO/playlist.m3u8?sign=68c654603db6373bf0a78f82b0de4348&t=1634935903&GUID=03164be77e13fe0b644a06fbb79b0b99
 #EXTINF:-1 tvg-id="17" tvg-name="天津小说广播" tvg-logo="" group-title="广播",天津小说广播
 http://radio3.wisetv.com.cn/tjradio/XIAOSHUO/playlist.m3u8?sign=85f23f0d9f39160c5e4f3cb2669e3657&t=1634936186&GUID=be8ce7aea187f1adf5f6013a5faf4c1a
+
 #EXTINF:-1 tvg-id="17" tvg-name="天津文艺广播" tvg-logo="" group-title="广播",天津文艺广播
-http://radio3.wisetv.com.cn/tjradio/WENYI/playlist.m3u8?sign=7d1df5c802e930731bddc7ec9a884400&t=1634935990&GUID=faa0e9359d2ad6e3567021856533f08e
-#EXTINF:-1 tvg-id="17" tvg-name="天津滨海广播" tvg-logo="" group-title="广播",天津滨海广播
-http://radio3.wisetv.com.cn/tjradio/BINHAI/playlist.m3u8?sign=a8be442fc7d0c64b49fcb14cd5c77129&t=1634936269&GUID=94d0f72d24398223da5ccdd7e51ef2de
+http://radio3.wisetv.com.cn/tjradio/WENYI/playlist.m3u8?sign=b5cb6328c050e9de3de525c6f8abac1b&t=1634979453&GUID=398fa23b079d6588874af979d9651f0b
 #EXTINF:-1 tvg-id="17" tvg-name="天津新闻广播" tvg-logo="" group-title="广播",天津新闻广播
-http://radio3.wisetv.com.cn/tjradio/TJXW/playlist.m3u8?sign=3112d2e4e8c6c841815ab02566d4c30a&t=1634936508&GUID=0a827311fcdc11b2093072069b9cc5b4
+http://radio2.wisetv.com.cn/tjradio/XINWEN/playlist.m3u8?wsSecret=ecf5b86c7004c9213d99a9b39ecee38f&wsTime=6173cebc&GUID=d75087e0498e6b599e9dc5de41236cf6&wsSession=58095961b3e5c7061a72dded-163497951635055&wsIPSercert=4858cd6e094ad75e4cadfdbc2739a300&wsMonitor=0
 #EXTINF:-1 tvg-id="17" tvg-name="天津音乐广播" tvg-logo="" group-title="广播",天津音乐广播
-http://radio2.wisetv.com.cn/tjradio/YINYUE/playlist.m3u8?wsSecret=da554f4b1e954fef059cf179af4faf98&wsTime=6173a308&GUID=eefd5bc9317766164952d85b07a945fd
+http://radio2.wisetv.com.cn/tjradio/YINYUE/playlist.m3u8?wsSecret=c0579d5adb868a7055d107c31bb421ad&wsTime=6173cc42&GUID=cbf98ee3faad69e4218784092c4c54e4&wsSession=58095961b3e5c7061a72dded-163497888304498&wsIPSercert=4858cd6e094ad75e4cadfdbc2739a300&wsMonitor=0
 #EXTINF:-1 tvg-id="17" tvg-name="天津FM88.5" tvg-logo="" group-title="广播",天津FM88.5
-http://radio2.wisetv.com.cn/tjradio/NONGCUN/playlist.m3u8?wsSecret=1d0a9ec27eb8bdc7d49e7376947f2dc4&wsTime=6173a4c6&GUID=053e14f29c8cfadd10263550cd07aca5
+http://radio2.wisetv.com.cn/tjradio/NONGCUN/playlist.m3u8?wsSecret=8eef19d2cf60df71822f0ada7db8967f&wsTime=6173cbd6&GUID=8384c79bb73213634e2f630adbf20ff8&wsSession=58095961b3e5c7061a72dded-163497877465682&wsIPSercert=4858cd6e094ad75e4cadfdbc2739a300&wsMonitor=0
 #EXTINF:-1 tvg-id="17" tvg-name="天津新闻频道" tvg-logo="" group-title="广播",天津新闻频道
 http://radio3.wisetv.com.cn/tjradio/TJXW/playlist.m3u8?sign=a55db5c16a152b1514a13f2803df436b&t=1634969392&GUID=c45b345217baeee66ee7df30c8c9c4e1
 #EXTINF:-1 tvg-id="17" tvg-name="天津滨海广播" tvg-logo="" group-title="广播",天津滨海广播
