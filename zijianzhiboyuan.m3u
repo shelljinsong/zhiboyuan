@@ -660,8 +660,8 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-name="天津都市频道" tvg-logo="" group-title="天津电视频道",天津都市频道
 http://live3.wisetv.com.cn/TJIPTV/TJDS/playlist.m3u8?sign=40ea017175e3ebc61ed734189daa15d7&t=1634938938&GUID=fb728a9e2ac56d1a2eb11d1fc776742b&bsSession=8e2f98b213cc689e94004076c831d663
-#EXTINF:-1 tvg-id="17" tvg-name="天津新闻广播" tvg-logo="" group-title="天津电视频道",天津新闻广播
-http://live3.wisetv.com.cn/TJIPTV/TJDS/playlist.m3u8?sign=40ea017175e3ebc61ed734189daa15d7&t=1634938938&GUID=fb728a9e2ac56d1a2eb11d1fc776742b&bsSession=8e2f98b213cc689e94004076c831d663
+#EXTINF:-1 tvg-id="17" tvg-name="天津卫视" tvg-logo="" group-title="天津电视频道",天津卫视
+http://live2.wisetv.com.cn/TJIPTV/TJWS/playlist.m3u8?wsSecret=ab33b9ae9caf516614a8f1d5e16871b4&wsTime=61739db0&GUID=d903cea1959337193539d8e90fcbfd58
 
 #EXTINF:-1 tvg-id="17" tvg-name="FM 100.5" tvg-logo="" group-title="广播",音乐摩天轮
 https://live.ximalaya.com/radio-first-page-app/live/121/64.m3u8?transcode=ts 
