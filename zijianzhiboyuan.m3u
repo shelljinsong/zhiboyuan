@@ -662,6 +662,22 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 http://live3.wisetv.com.cn/TJIPTV/TJDS/playlist.m3u8?sign=40ea017175e3ebc61ed734189daa15d7&t=1634938938&GUID=fb728a9e2ac56d1a2eb11d1fc776742b&bsSession=8e2f98b213cc689e94004076c831d663
 #EXTINF:-1 tvg-id="17" tvg-name="天津卫视" tvg-logo="" group-title="天津电视频道",天津卫视
 http://live2.wisetv.com.cn/TJIPTV/TJWS/playlist.m3u8?wsSecret=ab33b9ae9caf516614a8f1d5e16871b4&wsTime=61739db0&GUID=d903cea1959337193539d8e90fcbfd58
+#EXTINF:-1 tvg-id="17" tvg-name="天津文艺" tvg-logo="" group-title="天津电视频道",天津文艺
+http://live2.wisetv.com.cn/TJIPTV/TJWY/playlist.m3u8?wsSecret=641721fb586bb4d0545cd67c23b2e090&wsTime=61739ec9&GUID=ee30e6cc6794cbc9b479573a17d1d4ef
+#EXTINF:-1 tvg-id="17" tvg-name="天津影视" tvg-logo="" group-title="天津电视频道",天津影视
+http://live2.wisetv.com.cn/TJIPTV/TJYS/playlist.m3u8?wsSecret=2d4fcf28c7527cf81f1445de1c2ca17f&wsTime=61739f71&GUID=ab9d5764f40d71149b9cacb663fd084f
+#EXTINF:-1 tvg-id="17" tvg-name="天津新闻" tvg-logo="" group-title="天津电视频道",天津新闻
+http://live2.wisetv.com.cn/TJIPTV/TJXW/playlist.m3u8?wsSecret=4fdd619b62afbd78e9c6c750d13f8948&wsTime=6173a056&GUID=efdf3d72989711b5cb825130c4efea46
+#EXTINF:-1 tvg-id="17" tvg-name="天津体育" tvg-logo="" group-title="天津电视频道",天津体育
+http://live2.wisetv.com.cn/TJIPTV/TJTY/playlist.m3u8?wsSecret=42ab539cb3541f23dcd1b9a63f3d4794&wsTime=6173a0c1&GUID=84de21115b66266598bae8a64dd8da84
+#EXTINF:-1 tvg-id="17" tvg-name="天津科教" tvg-logo="" group-title="天津电视频道",天津科教
+http://live3.wisetv.com.cn/TJIPTV/TJKJ/playlist.m3u8?sign=6f00b6ad8b10319daaa6fcf48e9e03c0&t=1634968322&GUID=fddc49ca4c75573d5cff5ad9d8aacc65
+#EXTINF:-1 tvg-id="17" tvg-name="天津少儿" tvg-logo="" group-title="天津电视频道",天津少儿
+http://live3.wisetv.com.cn/TJIPTV/TJSE/playlist.m3u8?sign=78734344fc0dceb38c94bf27ce892f67&t=1634968463&GUID=69d6755ac97bd2bafeaaf9e0e2bc9f00
+
+
+
+
 
 #EXTINF:-1 tvg-id="17" tvg-name="FM 100.5" tvg-logo="" group-title="广播",音乐摩天轮
 https://live.ximalaya.com/radio-first-page-app/live/121/64.m3u8?transcode=ts 
