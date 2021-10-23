@@ -658,8 +658,8 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="17" tvg-name="天津都市频道" tvg-logo="" group-title="天津电视频道",天津都市频道
-http://live3.wisetv.com.cn/TJIPTV/TJDS/playlist.m3u8?sign=40ea017175e3ebc61ed734189daa15d7&t=1634938938&GUID=fb728a9e2ac56d1a2eb11d1fc776742b&bsSession=8e2f98b213cc689e94004076c831d663
+#EXTINF:-1 tvg-id="17" tvg-name="天津新闻" tvg-logo="" group-title="天津电视频道",天津新闻
+http://live2.wisetv.com.cn/TJIPTV/TJXW/playlist.m3u8?wsSecret=3a6ad599dde471118b842b424e47ab7f&wsTime=6173c260&GUID=33ebb2aa7c7fb98d82362e94c2aa2fef&wsSession=58095961b3e5c7061a72dded-163497635301830&wsIPSercert=f93f47a0fdb049546f322031db4fff84&wsMonitor=0
 #EXTINF:-1 tvg-id="17" tvg-name="天津卫视" tvg-logo="" group-title="天津电视频道",天津卫视
 http://live2.wisetv.com.cn/TJIPTV/TJWS/playlist.m3u8?wsSecret=ab33b9ae9caf516614a8f1d5e16871b4&wsTime=61739db0&GUID=d903cea1959337193539d8e90fcbfd58
 #EXTINF:-1 tvg-id="17" tvg-name="天津文艺" tvg-logo="" group-title="天津电视频道",天津文艺
@@ -669,11 +669,13 @@ http://live2.wisetv.com.cn/TJIPTV/TJYS/playlist.m3u8?wsSecret=2d4fcf28c7527cf81f
 #EXTINF:-1 tvg-id="17" tvg-name="天津体育" tvg-logo="" group-title="天津电视频道",天津体育
 http://live2.wisetv.com.cn/TJIPTV/TJTY/playlist.m3u8?wsSecret=42ab539cb3541f23dcd1b9a63f3d4794&wsTime=6173a0c1&GUID=84de21115b66266598bae8a64dd8da84
 #EXTINF:-1 tvg-id="17" tvg-name="天津科教" tvg-logo="" group-title="天津电视频道",天津科教
-http://live3.wisetv.com.cn/TJIPTV/TJKJ/playlist.m3u8?sign=6f00b6ad8b10319daaa6fcf48e9e03c0&t=1634968322&GUID=fddc49ca4c75573d5cff5ad9d8aacc65
+http://live3.wisetv.com.cn/TJIPTV/TJKJ/playlist.m3u8?sign=5bf93f38d8a6a4b7ce05843164aef467&t=1634998316&GUID=fe44324a5ce9e994747ed4fa24de6aee&bsSession=44490f771e1156d9cab6c5dc77f68d0e
 #EXTINF:-1 tvg-id="17" tvg-name="天津少儿" tvg-logo="" group-title="天津电视频道",天津少儿
 http://live3.wisetv.com.cn/TJIPTV/TJSE/playlist.m3u8?sign=b1dea6fb3f0357cb0dbf1cf884e81dcc&t=1634977058&GUID=db646bb7789ce944195a9a4c42ea4dac&bsSession=50f9c4d79a86b3c3b6f2761ae9f31dcf
-#EXTINF:-1 tvg-id="17" tvg-name="天津新闻" tvg-logo="" group-title="天津电视频道",天津新闻
-http://live2.wisetv.com.cn/TJIPTV/TJXW/playlist.m3u8?wsSecret=3a6ad599dde471118b842b424e47ab7f&wsTime=6173c260&GUID=33ebb2aa7c7fb98d82362e94c2aa2fef&wsSession=58095961b3e5c7061a72dded-163497635301830&wsIPSercert=f93f47a0fdb049546f322031db4fff84&wsMonitor=0
+#EXTINF:-1 tvg-id="17" tvg-name="天津都市频道" tvg-logo="" group-title="天津电视频道",天津都市频道
+http://live3.wisetv.com.cn/TJIPTV/TJDS/playlist.m3u8?sign=9cdfbb2bac0786cb09fcfb3bc85f7dbb&t=1634998462&GUID=07cbf6a62585b90bff5b2c5e06cffb8d&bsSession=8e2f98b213cc689e94004076c831d663
+
+
 
 
 
