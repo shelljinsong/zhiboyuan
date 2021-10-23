@@ -708,10 +708,11 @@ https://live.ximalaya.com/radio-first-page-app/live/494/64.m3u8?transcode=ts
 https://live.ximalaya.com/radio-first-page-app/live/496/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-id="17" tvg-name="河北交通广播" tvg-logo="" group-title="广播",河北交通广播
 https://live.ximalaya.com/radio-first-page-app/live/498/64.m3u8?transcode=ts
+
 #EXTINF:-1 tvg-id="17" tvg-name="天津生活广播" tvg-logo="" group-title="广播",天津生活广播
-http://radio3.wisetv.com.cn/tjradio/SHENGHUO/playlist.m3u8?sign=68c654603db6373bf0a78f82b0de4348&t=1634935903&GUID=03164be77e13fe0b644a06fbb79b0b99
+http://radio3.wisetv.com.cn/tjradio/SHENGHUO/playlist.m3u8?sign=e71d569b5b3527345ae99386c4768c59&t=1634997855&GUID=8c865b2dbb77481c8a8434696ef82a91
 #EXTINF:-1 tvg-id="17" tvg-name="天津小说广播" tvg-logo="" group-title="广播",天津小说广播
-http://radio3.wisetv.com.cn/tjradio/XIAOSHUO/playlist.m3u8?sign=85f23f0d9f39160c5e4f3cb2669e3657&t=1634936186&GUID=be8ce7aea187f1adf5f6013a5faf4c1a
+http://radio3.wisetv.com.cn/tjradio/XIAOSHUO/playlist.m3u8?sign=e0c8b36c045346856fc86e24b4ef0409&t=1634997995&GUID=50f8015c11561c850c4aa2abf7f7535e
 
 #EXTINF:-1 tvg-id="17" tvg-name="天津文艺广播" tvg-logo="" group-title="广播",天津文艺广播
 http://radio3.wisetv.com.cn/tjradio/WENYI/playlist.m3u8?sign=b5cb6328c050e9de3de525c6f8abac1b&t=1634979453&GUID=398fa23b079d6588874af979d9651f0b
