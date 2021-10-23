@@ -688,6 +688,6 @@ https://live.ximalaya.com/radio-first-page-app/live/496/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-id="17" tvg-name="河北交通广播" tvg-logo="" group-title="广播",河北交通广播
 https://live.ximalaya.com/radio-first-page-app/live/498/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-id="17" tvg-name="天津相声广播" tvg-logo="" group-title="广播",天津相声广播
-http://radio2.wisetv.com.cn/tjradio/XIANGSHENG/playlist.m3u8?wsSecret=2f7961a48a705506e4a6182e3914dae0&wsTime=6172dd6b&GUID=d4ce5c08b9f9e3c7b52abe2fb86ff113&wsSession=58095961b3e5c7061a72dded-163491773952927&wsIPSercert=4858cd6e094ad75e4cadfdbc2739a300&wsMonitor=0
+http://radio3.wisetv.com.cn/tjradio/SHENGHUO/playlist.m3u8?sign=68c654603db6373bf0a78f82b0de4348&t=1634935903&GUID=03164be77e13fe0b644a06fbb79b0b99
 #EXTINF:-1 tvg-id="17" tvg-name="天津" tvg-logo="" group-title="广播",天津
 http://live3.wisetv.com.cn/TJIPTV/TJDS/playlist.m3u8?sign=40ea017175e3ebc61ed734189daa15d7&t=1634938938&GUID=fb728a9e2ac56d1a2eb11d1fc776742b&bsSession=8e2f98b213cc689e94004076c831d663
