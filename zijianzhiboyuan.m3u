@@ -695,3 +695,10 @@ http://live3.wisetv.com.cn/TJIPTV/TJDS/playlist.m3u8?sign=40ea017175e3ebc61ed734
 http://radio3.wisetv.com.cn/tjradio/XIAOSHUO/playlist.m3u8?sign=85f23f0d9f39160c5e4f3cb2669e3657&t=1634936186&GUID=be8ce7aea187f1adf5f6013a5faf4c1a
 #EXTINF:-1 tvg-id="17" tvg-name="天津文艺广播" tvg-logo="" group-title="广播",天津文艺广播
 http://radio3.wisetv.com.cn/tjradio/WENYI/playlist.m3u8?sign=7d1df5c802e930731bddc7ec9a884400&t=1634935990&GUID=faa0e9359d2ad6e3567021856533f08e
+#EXTINF:-1 tvg-id="17" tvg-name="天津滨海广播" tvg-logo="" group-title="广播",天津滨海广播
+http://radio3.wisetv.com.cn/tjradio/BINHAI/playlist.m3u8?sign=a8be442fc7d0c64b49fcb14cd5c77129&t=1634936269&GUID=94d0f72d24398223da5ccdd7e51ef2de
+#EXTINF:-1 tvg-id="17" tvg-name="天津文艺广播" tvg-logo="" group-title="广播",天津文艺广播
+http://radio3.wisetv.com.cn/tjradio/TJXW/playlist.m3u8?sign=3112d2e4e8c6c841815ab02566d4c30a&t=1634936508&GUID=0a827311fcdc11b2093072069b9cc5b4
+#EXTINF:-1 tvg-id="17" tvg-name="天津新闻广播" tvg-logo="" group-title="广播",天津新闻广播
+http://live3.wisetv.com.cn/TJIPTV/TJDS/playlist.m3u8?sign=40ea017175e3ebc61ed734189daa15d7&t=1634938938&GUID=fb728a9e2ac56d1a2eb11d1fc776742b&bsSession=8e2f98b213cc689e94004076c831d663
+#EXTINF:-1 tvg-id="17" tvg-name="天津文艺广播" tvg-logo="" group-title="广播",天津文艺广播
