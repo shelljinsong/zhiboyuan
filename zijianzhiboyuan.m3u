@@ -667,7 +667,7 @@ http://live2.wisetv.com.cn/TJIPTV/TJWY/playlist.m3u8?wsSecret=641721fb586bb4d054
 #EXTINF:-1 tvg-id="17" tvg-name="天津影视" tvg-logo="" group-title="天津电视频道",天津影视
 http://live2.wisetv.com.cn/TJIPTV/TJYS/playlist.m3u8?wsSecret=2d4fcf28c7527cf81f1445de1c2ca17f&wsTime=61739f71&GUID=ab9d5764f40d71149b9cacb663fd084f
 #EXTINF:-1 tvg-id="17" tvg-name="天津体育" tvg-logo="" group-title="天津电视频道",天津体育
-http://live2.wisetv.com.cn/TJIPTV/TJTY/playlist.m3u8?wsSecret=027f5ad9c37e04154c71243fa44f8034&wsTime=61741894&GUID=c142d50b463c1b48e58f827b052d4d59&wsSession=58095961b3e5c7061a72dded-163499842093233&wsIPSercert=f93f47a0fdb049546f322031db4fff84&wsMonitor=0
+http://live2.wisetv.com.cn/TJIPTV/TJTY/playlist.m3u8?wsSecret=027f5ad9c37e04154c71243fa44f8034&wsTime=61741894&GUID=c142d50b463c1b48e58f827b052d4d59
 #EXTINF:-1 tvg-id="17" tvg-name="天津科教" tvg-logo="" group-title="天津电视频道",天津科教
 http://live3.wisetv.com.cn/TJIPTV/TJKJ/playlist.m3u8?sign=5bf93f38d8a6a4b7ce05843164aef467&t=1634998316&GUID=fe44324a5ce9e994747ed4fa24de6aee&bsSession=44490f771e1156d9cab6c5dc77f68d0e
 #EXTINF:-1 tvg-id="17" tvg-name="天津少儿" tvg-logo="" group-title="天津电视频道",天津少儿
