@@ -760,6 +760,6 @@ http://radio2.wisetv.com.cn/tjradio/jingjinji.stream/playlist.m3u8?wsSecret=763c
 http://radio2.wisetv.com.cn/tjradio/JIAOTONG/playlist.m3u8?wsSecret=7669fb120deb21db5135d8f8811734ad&wsTime=6173c0da&GUID=dd534535eb1154ef21dbc439652dbdf7&wsSession=9747880513f75299da5520df-163497596311904&wsIPSercert=4858cd6e094ad75e4cadfdbc2739a300&wsMonitor=0
 #EXTINF:-1 tvg-id="17" tvg-name="天津相声广播" tvg-logo="" group-title="广播",天津相声广播
 http://radio2.wisetv.com.cn/tjradio/XIANGSHENG/playlist.m3u8?wsSecret=eb202f6ff28c8364db8c47c53130caf1&wsTime=6173c157&GUID=d2c8cac20af5c6726b106642e19c94f7&wsSession=58095961b3e5c7061a72dded-163497608811970&wsIPSercert=4858cd6e094ad75e4cadfdbc2739a300&wsMonitor=0
-
+#EXTINF:-1 tvg-id="17" tvg-name="天津交通广播1" tvg-logo="" group-title="广播",天津交通广播1
 
 
