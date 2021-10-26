@@ -761,5 +761,6 @@ http://radio2.wisetv.com.cn/tjradio/JIAOTONG/playlist.m3u8?wsSecret=7669fb120deb
 #EXTINF:-1 tvg-id="17" tvg-name="天津相声广播" tvg-logo="" group-title="广播",天津相声广播
 http://radio2.wisetv.com.cn/tjradio/XIANGSHENG/playlist.m3u8?wsSecret=eb202f6ff28c8364db8c47c53130caf1&wsTime=6173c157&GUID=d2c8cac20af5c6726b106642e19c94f7&wsSession=58095961b3e5c7061a72dded-163497608811970&wsIPSercert=4858cd6e094ad75e4cadfdbc2739a300&wsMonitor=0
 #EXTINF:-1 tvg-id="17" tvg-name="天津交通广播1" tvg-logo="" group-title="广播",天津交通广播1
-
-
+http://radio2.wisetv.com.cn/tjradio/JIAOTONG/playlist.m3u8?wsSecret=07e4435e66eaef933771f4f70e68aef6&wsTime=6177aea0&GUID=2090df113e7e648daab33f758253d18e
+#EXTINF:-1 tvg-id="17" tvg-name="天津交通广播2" tvg-logo="" group-title="广播",天津交通广播2
+http://radio2.wisetv.com.cn/tjradio/JIAOTONG/playlist.m3u8?wsSecret=07e4435e66eaef933771f4f70e68aef6&wsTime=6177aea0&GUID=2090df113e7e648daab33f758253d18e&wsSession=201cef9131cf8e91c692cf4a-163523344049778&wsIPSercert=def3d3f5644be3a45b8ab2af73831e8a&wsMonitor=0
