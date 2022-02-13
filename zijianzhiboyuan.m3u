@@ -160,14 +160,24 @@ http://stream4.jlntv.cn/test2/sd/live.m3u8
 http://scgctvshow.sctv.com/scgc/sctv1deu5453w/index.m3u8
 
 #EXTM3U
+#EXTINF:-1 group-title="港澳台",MoMo综合台
+rtmp://59.124.75.157/sat/tv761
 #EXTINF:-1 group-title="港澳台",台视
 http://59.125.101.187:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+#EXTINF:-1 group-title="港澳台",台视-1
+rtmp://59.124.75.157/sat/tv071
 #EXTINF:-1 group-title="港澳台",中视
 http://59.125.101.187:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+#EXTINF:-1 group-title="港澳台",中视-1
+rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 group-title="港澳台",华视
 http://59.125.101.187:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+#EXTINF:-1 group-title="港澳台",华视-1
+rtmp://59.124.75.157/sat/tv111
 #EXTINF:-1 group-title="港澳台",民视
 http://59.125.101.187:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+#EXTINF:-1 group-title="港澳台",民视-1
+rtmp://59.124.75.157/sat/tv051
 #EXTINF:-1 group-title="港澳台",三立台湾
 http://59.125.101.187:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 #EXTINF:-1 group-title="港澳台",三立都会
@@ -182,6 +192,10 @@ http://59.125.101.187:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 http://59.125.101.187:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 #EXTINF:-1 group-title="港澳台",东森新闻
 http://59.125.101.187:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 group-title="港澳台",東森財經新聞
+rtmp://59.124.75.157/sat/tv571
+#EXTINF:-1 group-title="港澳台",東森超视
+rtmp://59.124.75.157/sat/tv331
 #EXTINF:-1 group-title="港澳台",民视新闻
 http://59.125.101.187:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
 #EXTINF:-1 group-title="港澳台",寰宇新闻
@@ -192,6 +206,10 @@ http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 http://59.125.101.187:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻台-1
+rtmp://59.124.75.157/sat/tv551
+#EXTINF:-1 group-title="港澳台",TVBS欢乐台
+rtmp://59.124.75.157/sat/tv421
 #EXTINF:-1 group-title="港澳台",凤凰中文 10M1080
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰中文1
@@ -266,6 +284,20 @@ http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 http://59.125.101.187:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
 #EXTINF:-1 group-title="港澳台",纬来综合
 http://59.125.101.187:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
+#EXTINF:-1 group-title="港澳台",纬来戏剧
+http://59.125.101.187:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="港澳台",纬来育乐
+http://59.125.101.187:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="港澳台",纬来育乐-1
+rtmp://59.124.75.157/sat/tv701
+#EXTINF:-1 group-title="港澳台",纬来体育
+http://59.125.101.187:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 group-title="港澳台",纬来体育-1
+rtmp://59.124.75.157/sat/tv721
+#EXTINF:-1 group-title="港澳台",纬来日本
+http://59.125.101.187:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+#EXTINF:-1 group-title="港澳台",纬来日本-1
+rtmp://59.124.75.157/sat/tv771
 #EXTINF:-1 group-title="港澳台",卫视中文
 http://59.125.101.187:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
 #EXTINF:-1 group-title="港澳台",东森综合
@@ -280,22 +312,16 @@ http://59.125.101.187:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 http://59.125.101.187:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS欢乐
 http://59.125.101.187:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
-#EXTINF:-1 group-title="港澳台",纬来戏剧
-http://59.125.101.187:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 #EXTINF:-1 group-title="港澳台",龙华戏剧
 http://59.125.101.187:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
 #EXTINF:-1 group-title="港澳台",龙华日韩
 http://59.125.101.187:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
-#EXTINF:-1 group-title="港澳台",未来日本
-http://59.125.101.187:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 #EXTINF:-1 group-title="港澳台",WAKUWAKU JAPAN
 http://59.125.101.187:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 #EXTINF:-1 group-title="港澳台",(国兴卫视)TVBS HD
 http://59.125.101.187:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 #EXTINF:-1 group-title="港澳台",原住民電視 (720p)
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="港澳台",CNBC新闻3
-http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
 #EXTINF:-1 group-title="港澳台",CNBC新闻
 http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
 #EXTINF:-1 group-title="港澳台",HBO HD
@@ -304,10 +330,8 @@ http://59.125.101.187:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 http://59.125.101.187:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 #EXTINF:-1 group-title="港澳台",FOX频道
 http://59.125.101.187:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
-#EXTINF:-1 group-title="港澳台",纬来育乐
-http://59.125.101.187:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
-#EXTINF:-1 group-title="港澳台",纬来体育
-http://59.125.101.187:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 group-title="港澳台",五星体育
+http://119.167.229.31/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 group-title="港澳台",人间卫视
 http://59.125.101.187:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
 #EXTINF:-1 group-title="港澳台",大爱
@@ -420,8 +444,6 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 group-title="港澳台",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="17" tvg-name="FM 100.5" tvg-logo="" group-title="广播",音乐摩天轮
