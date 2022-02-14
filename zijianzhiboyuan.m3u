@@ -261,6 +261,8 @@ rtmp://59.124.75.157/sat/tv761
 http://59.125.101.187:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 #EXTINF:-1 group-title="港澳台",台视-1
 rtmp://59.124.75.157/sat/tv071
+#EXTINF:-1 group-title="港澳台",台视新闻
+http://206.119.173.184/tv/js.php?id=143
 #EXTINF:-1 group-title="港澳台",中视
 http://59.125.101.187:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
 #EXTINF:-1 group-title="港澳台",中视-1
@@ -269,42 +271,94 @@ rtmp://59.124.75.157/sat/tv091
 http://59.125.101.187:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
 #EXTINF:-1 group-title="港澳台",华视-1
 rtmp://59.124.75.157/sat/tv111
+#EXTINF:-1 group-title="港澳台",华视新闻
+http://206.119.173.184/tv/js.php?id=147
 #EXTINF:-1 group-title="港澳台",民视
 http://59.125.101.187:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
 #EXTINF:-1 group-title="港澳台",民视-1
 rtmp://59.124.75.157/sat/tv051
+#EXTINF:-1 group-title="港澳台",三立综合
+http://206.119.173.184/tv/js.php?id=40
 #EXTINF:-1 group-title="港澳台",三立台湾
 http://59.125.101.187:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 #EXTINF:-1 group-title="港澳台",三立都会
 http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 #EXTINF:-1 group-title="港澳台",中天新闻
 http://59.125.101.187:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻-1
+http://206.119.173.184/tv/js.php?id=137
 #EXTINF:-1 group-title="港澳台",中天综合
 http://59.125.101.187:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 #EXTINF:-1 group-title="港澳台",中天娱乐
 http://59.125.101.187:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 group-title="港澳台",非凡新闻
+http://206.119.173.184/tv/js.php?id=148
 #EXTINF:-1 group-title="港澳台",年代新闻
 http://59.125.101.187:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 group-title="港澳台",年代新闻HD
+http://206.119.173.184/tv/js.php?id=149
 #EXTINF:-1 group-title="港澳台",东森新闻
 http://59.125.101.187:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 group-title="港澳台",东森新闻HD
+http://206.119.173.184/tv/js.php?id=140
 #EXTINF:-1 group-title="港澳台",東森財經新聞
 rtmp://59.124.75.157/sat/tv571
+#EXTINF:-1 group-title="港澳台",東森財經新聞-1
+http://206.119.173.184/tv/js.php?id=44
+#EXTINF:-1 group-title="港澳台",東森財經新聞-2
+http://206.119.173.184/tv/js.php?id=141
+#EXTINF:-1 group-title="港澳台",东森财经新闻
+http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 #EXTINF:-1 group-title="港澳台",東森超视
 rtmp://59.124.75.157/sat/tv331
+#EXTINF:-1 group-title="港澳台",東森综合
+http://206.119.173.184/tv/js.php?id=43
+#EXTINF:-1 group-title="港澳台",东森综合
+http://59.125.101.187:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 group-title="港澳台",东森超视
+http://59.125.101.187:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 group-title="港澳台",东森戏剧
+http://59.125.101.187:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 #EXTINF:-1 group-title="港澳台",民视新闻
 http://59.125.101.187:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻HD
+http://206.119.173.184/tv/js.php?id=139
 #EXTINF:-1 group-title="港澳台",寰宇新闻
 http://59.125.101.187:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 #EXTINF:-1 group-title="港澳台",寰宇新闻1
 http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 #EXTINF:-1 group-title="港澳台",壹新闻台
 http://59.125.101.187:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 group-title="港澳台",壹新闻台HD
+http://206.119.173.184/tv/js.php?id=144
 #EXTINF:-1 group-title="港澳台",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS新闻台-1
 rtmp://59.124.75.157/sat/tv551
+#EXTINF:-1 group-title="港澳台",TVBS新闻台-2
+http://206.119.173.184/tv/js.php?id=135
 #EXTINF:-1 group-title="港澳台",TVBS欢乐台
 rtmp://59.124.75.157/sat/tv421
+#EXTINF:-1 group-title="港澳台",TVBS-HD
+http://206.119.173.184/tv/js.php?id=136
+#EXTINF:-1 group-title="港澳台",SET NEW
+http://206.119.173.184/tv/js.php?id=145
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://206.119.173.184/tv/js.php?id=164
+#EXTINF:-1 group-title="港澳台",JET综合
+http://206.119.173.184/tv/js.php?id=175
+#EXTINF:-1 group-title="港澳台",STARMOVIES
+http://206.119.173.184/tv/js.php?id=209
+#EXTINF:-1 group-title="港澳台",博斯魅力
+http://206.119.173.184/tv/js.php?id=59
+#EXTINF:-1 group-title="港澳台",OELTA体育1台
+http://206.119.173.184/tv/js.php?id=57
+#EXTINF:-1 group-title="港澳台",TVB经典台
+http://206.119.173.184/tv/js.php?id=11
+#EXTINF:-1 group-title="港澳台",凤凰中文-2
+http://206.119.173.184/tv/js.php?id=1
+#EXTINF:-1 group-title="港澳台",凤凰中文-1
+http://206.119.173.184/tv/js.php?id=2
 #EXTINF:-1 group-title="港澳台",凤凰中文 10M1080
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰中文1
@@ -313,7 +367,7 @@ http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰中文(时移)
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯 10M1080
+#EXTINF:-1 group-title="港澳台",凤凰资讯10M1080
 http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰资讯(时移)
 http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
@@ -343,6 +397,8 @@ http://iptv.tvfix.org/hls/tvbkf2.m3u8
 http://iptv.tvfix.org/hls/mydy2.m3u8
 #EXTINF:-1 group-title="港澳台",天映经典(普通话)
 http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1 group-title="港澳台",天映频道
+http://206.119.173.184/tv/js.php?id=106
 #EXTINF:-1 group-title="港澳台",ViuTV
 http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF:-1 group-title="港澳台",ViuTV(第2声道)
@@ -369,12 +425,16 @@ http://59.125.101.187:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 http://59.125.101.187:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
 #EXTINF:-1 group-title="港澳台",动物星球
 http://59.125.101.187:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
-#EXTINF:-1 group-title="港澳台",八大综合
-http://59.125.101.187:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 #EXTINF:-1 group-title="港澳台",亚洲旅游
 http://59.125.101.187:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
-#EXTINF:-1 group-title="港澳台",东森财经新闻
-http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+#EXTINF:-1 group-title="港澳台",八大娱乐
+http://206.119.173.184/tv/js.php?id=40
+#EXTINF:-1 group-title="港澳台",八大综合
+http://59.125.101.187:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+#EXTINF:-1 group-title="港澳台",八大戏剧合
+http://59.125.101.187:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 group-title="港澳台",八大戏剧
+http://206.119.173.184/tv/js.php?id=36
 #EXTINF:-1 group-title="港澳台",(寰宇新闻)龙华卡通
 http://59.125.101.187:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
 #EXTINF:-1 group-title="港澳台",纬来综合
@@ -389,22 +449,22 @@ rtmp://59.124.75.157/sat/tv701
 http://59.125.101.187:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 #EXTINF:-1 group-title="港澳台",纬来体育-1
 rtmp://59.124.75.157/sat/tv721
+#EXTINF:-1 group-title="港澳台",纬来体育-2
+http://206.119.173.184/tv/js.php?id=56
 #EXTINF:-1 group-title="港澳台",纬来日本
 http://59.125.101.187:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 #EXTINF:-1 group-title="港澳台",纬来日本-1
 rtmp://59.124.75.157/sat/tv771
 #EXTINF:-1 group-title="港澳台",卫视中文
 http://59.125.101.187:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
-#EXTINF:-1 group-title="港澳台",东森综合
-http://59.125.101.187:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
-#EXTINF:-1 group-title="港澳台",东森超视
-http://59.125.101.187:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 group-title="港澳台",卫视中文-1
+http://206.119.173.184/tv/js.php?id=104
+#EXTINF:-1 group-title="港澳台",卫视中文-2
+http://206.119.173.184/tv/js.php?id=108
+#EXTINF:-1 group-title="港澳台",动物星球
+http://206.119.173.184/tv/js.php?id=122
 #EXTINF:-1 group-title="港澳台",MuchTV
 http://59.125.101.187:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
-#EXTINF:-1 group-title="港澳台",东森戏剧
-http://59.125.101.187:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-#EXTINF:-1 group-title="港澳台",八大戏剧合
-http://59.125.101.187:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS欢乐
 http://59.125.101.187:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
 #EXTINF:-1 group-title="港澳台",龙华戏剧
