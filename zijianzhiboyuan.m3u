@@ -306,9 +306,11 @@ rtmp://59.124.75.157/sat/tv571
 #EXTINF:-1 group-title="港澳台",東森財經新聞-1
 http://206.119.173.184/tv/js.php?id=44
 #EXTINF:-1 group-title="港澳台",東森財經新聞-2
-http://206.119.173.184/tv/js.php?id=141
+rtmp://59.124.75.138/sat/tv571
 #EXTINF:-1 group-title="港澳台",东森财经新闻
 http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+#EXTINF:-1 group-title="港澳台",東森超视
+rtmp://59.124.75.138/sat/tv331
 #EXTINF:-1 group-title="港澳台",東森超视
 rtmp://59.124.75.157/sat/tv331
 #EXTINF:-1 group-title="港澳台",東森综合
@@ -320,9 +322,9 @@ http://59.125.101.187:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
 #EXTINF:-1 group-title="港澳台",东森戏剧
 http://59.125.101.187:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 #EXTINF:-1 group-title="港澳台",民视新闻
-http://59.125.101.187:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
+rtmp://59.124.75.138/sat/tv051
 #EXTINF:-1 group-title="港澳台",民视新闻HD
-http://206.119.173.184/tv/js.php?id=139
+rtmp://59.124.75.157/sat/tv051
 #EXTINF:-1 group-title="港澳台",寰宇新闻
 http://59.125.101.187:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 #EXTINF:-1 group-title="港澳台",寰宇新闻1
@@ -332,7 +334,7 @@ http://59.125.101.187:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
 #EXTINF:-1 group-title="港澳台",壹新闻台HD
 http://206.119.173.184/tv/js.php?id=144
 #EXTINF:-1 group-title="港澳台",TVBS新闻台
-http://iptv.tvfix.org/hls/tvbsnews.m3u8
+rtmp://59.124.75.138/sat/tv551
 #EXTINF:-1 group-title="港澳台",TVBS新闻台-1
 rtmp://59.124.75.157/sat/tv551
 #EXTINF:-1 group-title="港澳台",TVBS新闻台-2
