@@ -1,28 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="CCTV",CCTV1OK
-http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228146/index.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV1
-http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV1AA
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV1CC
-http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv1/1.m3u8?channel-id=ystenlive
+http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 #EXTINF:-1 group-title="CCTV",CCTV2
-http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV2HD
-http://223.110.243.173/PLTV/3/224/3221227207/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV3
-http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV3A
-http://39.134.66.46/PLTV/88888888/224/3221225799/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-3综艺HD
-http://iptv.tvfix.org/hls/cctv3hd.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV4
-http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV4HD
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225534/index.m3u8
+
 #EXTINF:-1 group-title="CCTV",CCTV5
-http://223.110.236.59/ott.js.chinamobile.com/PLTV/3/224/3221228082/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV5+
 http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV16-4K 25M2160
