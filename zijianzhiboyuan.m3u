@@ -503,3 +503,5 @@ http://124.116.170.138:8081/rtp/239.109.205.192:9608
 http://124.116.170.138:8081/rtp/239.111.205.134:5140
 #EXTINF:0,浙江卫视HD
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:0,东森超视HD
+rtmp://f13h.mine.nu/sat/tv331
