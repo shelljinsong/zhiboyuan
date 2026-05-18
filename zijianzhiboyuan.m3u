@@ -509,3 +509,51 @@ rtmp://f13h.mine.nu/sat/tv331
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:0,纬来体育
 rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:0,CCTV1
+http://207.56.13.146:81/cdnlive/cctv1.m3u8
+#EXTINF:0,="安徽卫视
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+http://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 group-title="港台频道",凤凰香港
+http://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 tvg-id="Astro AOD" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAOD.png" group-title="港台频道",Astro AOD
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAEC.png" group-title="港台频道",Astro AEC
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 group-title="港台频道",无线新闻
+http://cdn6.163189.xyz/163189/wxxw
+#EXTINF:-1 group-title="港台频道",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 group-title="港台频道",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",NOW新闻
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 group-title="港台频道",CH5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 group-title="港台频道",CH8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 group-title="港台频道",CHU
+http://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 group-title="港台频道",翡翠台
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 group-title="港台频道",明珠台
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 group-title="港台频道",民视
+http://iptv.4666888.xyz/iptv2A.php?id=55
+#EXTINF:-1 group-title="港台频道",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="港台频道",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="港台频道",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="港台频道",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="港台频道",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="港台频道",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="港台频道",东森超视
+rtmp://f13h.mine.nu/sat/tv331
