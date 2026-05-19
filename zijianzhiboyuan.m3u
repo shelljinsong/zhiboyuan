@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 group-title="CCTV",CCTV-1
+http://itms3.sdlk.vip:3333/hls/1/index.m3u8
 #EXTINF:0 group-title="CCTV",CCTV1
 http://111.14.222.117:3333/hls/1/index.m3u8
 #EXTINF:0 group-title="CCTV",CCTV-13
@@ -103,8 +105,7 @@ http://111.14.222.117:3333/hls/64/index.m3u8
 http://111.14.222.117:3333/hls/52/index.m3u8
 #EXTINF:-2 group-title="卫视频道",安徽卫视==
 https://qsxw.gov.cn/rtmp_export/video11.m3u8
-#EXTINF:0 group-title="CCTV",CCTV-1
-http://itms3.sdlk.vip:3333/hls/1/index.m3u8
+
 #EXTINF:-2 group-title="卫视频道",北京卫视
 http://itms3.sdlk.vip:3333/hls/22/index.m3u8
 #EXTINF:0 group-title="CCTV",CCTV-2
