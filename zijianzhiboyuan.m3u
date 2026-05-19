@@ -3,6 +3,24 @@
 http://itms3.sdlk.vip:3333/hls/1/index.m3u8
 #EXTINF:0 group-title="CCTV",CCTV1
 http://111.14.222.117:3333/hls/1/index.m3u8
+#EXTINF:0 group-title="CCTV",CCTV-1
+http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:0 group-title="CCTV",CCTV-1
+http://39.165.39.49:19901/tsfile/live/1001_1.m3u8
+#EXTINF:0 group-title="CCTV",CCTV-1
+http://120.226.246.71:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:0 group-title="CCTV",CCTV-1
+http://39.164.138.145:8899/hls/1/index.m3u8
+#EXTINF:0 group-title="CCTV",CCTV-1
+http://120.226.246.71:9901/tsfile/live/0001_1.m3u8
+#EXTINF:0 group-title="CCTV",CCTV-1
+http://39.164.138.145:9003/hls/27/index.m3u8
+#EXTINF:0 group-title="CCTV",cctv1
+http://120.226.246.71:9901/tsfile/live/0122_1.m3u8
+#EXTINF:0 group-title="CCTV",CCTV1
+http://110.72.67.208:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:0 group-title="CCTV",CCTV1
+http://207.56.13.146:81/cdnlive/cctv1.m3u8
 #EXTINF:0 group-title="CCTV",CCTV-13
 http://111.14.222.117:3333/hls/13/index.m3u8
 #EXTINF:-2 group-title="卫视频道",北京卫视
@@ -105,7 +123,6 @@ http://111.14.222.117:3333/hls/64/index.m3u8
 http://111.14.222.117:3333/hls/52/index.m3u8
 #EXTINF:-2 group-title="卫视频道",安徽卫视==
 https://qsxw.gov.cn/rtmp_export/video11.m3u8
-
 #EXTINF:-2 group-title="卫视频道",北京卫视
 http://itms3.sdlk.vip:3333/hls/22/index.m3u8
 #EXTINF:0 group-title="CCTV",CCTV-2
@@ -186,8 +203,6 @@ http://8.138.7.223/tv/cwjd.php
 http://39.165.39.49:85/tsfile/live/1130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:0 group-title="CCTV",CCTV-13
 http://39.165.39.49:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:0 group-title="CCTV",CCTV-1
-http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-2 group-title="卫视频道",东方卫视
 http://39.165.39.49:85/tsfile/live/1128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:0,CCTV-2
@@ -278,8 +293,6 @@ http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv17&zy.m3u8
 http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctvdyjcpd&zy.m3u
 #EXTINF:-2 group-title="卫视频道",风云剧场
 http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctvfyjcpd&zy.m3u8
-#EXTINF:0 group-title="CCTV",CCTV-1
-http://39.165.39.49:19901/tsfile/live/1001_1.m3u8
 #EXTINF:0 group-title="CCTV",CCTV-2
 http://39.165.39.49:19901/tsfile/live/1002_1.m3u8
 #EXTINF:0 group-title="CCTV",CCTV-4
@@ -362,8 +375,6 @@ http://112.27.235.94:8000/hls/3/index.m3u8
 http://112.27.235.94:8000/hls/8/index.m3u8
 #EXTINF:-2 group-title="卫视频道",CHC影迷电影
 http://hc8q.x3322.net:3000/952383261
-#EXTINF:0 group-title="CCTV",CCTV-1
-http://120.226.246.71:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="港台频道",凤凰资讯
 http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:0 group-title="CCTV",CCTV-5
@@ -398,19 +409,11 @@ http://120.202.73.48:8888//tsfile/live/0123_1.m3u8
 http://120.202.73.48:8888//tsfile/live/0132_1.m3u8
 #EXTINF:-2 group-title="卫视频道",湖北卫视
 http://120.237.39.10:9901/tsfile/live/1053_1.m3u8
-#EXTINF:0 group-title="CCTV",CCTV-1
-http://39.164.138.145:8899/hls/1/index.m3u8
 #EXTINF:-2 group-title="卫视频道",河南卫视
 http://39.164.168.221:9901//tsfile/live/1015_1.m3u8
-#EXTINF:0 group-title="CCTV",CCTV-1
-http://120.226.246.71:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-2 group-title="卫视频道",白银文化教育ᴴᴰ
 https://play.kankanlive.com/live/1720408280309109.flv
-#EXTINF:0 group-title="CCTV",CCTV-1
-http://39.164.138.145:9003/hls/27/index.m3u8
 #EXTINF:-2 group-title="卫视频道",北京卫视
-http://120.226.246.71:9901/tsfile/live/0122_1.m3u8
-#EXTINF:0 group-title="CCTV",cctv1
 http://zh.sqitv.com:888/hls/42/index.m3u8
 #EXTINF:-2 group-title="卫视频道",山东卫视
 http://zh.sqitv.com:888/hls/49/index.m3u8
@@ -444,8 +447,6 @@ https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&tx
 http://120.211.62.180:8000/hls/18/index.m3u8
 #EXTINF:-2 group-title="卫视频道",湖南卫视4K
 http://8.138.7.223/tv/api.php?id=hnws4k
-#EXTINF:0 group-title="CCTV",CCTV1
-http://110.72.67.208:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:0 group-title="CCTV",CCTV2
 http://110.72.67.208:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:0 group-title="CCTV",CCTV15
@@ -510,8 +511,6 @@ rtmp://f13h.mine.nu/sat/tv331
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 group-title="港台频道",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:0 group-title="CCTV",CCTV1
-http://207.56.13.146:81/cdnlive/cctv1.m3u8
 #EXTINF:-2 group-title="卫视频道",安徽卫视
 http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="港台频道",凤凰中文
