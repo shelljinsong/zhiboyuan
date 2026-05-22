@@ -383,6 +383,8 @@ http://111.14.222.117:3333/hls/25/index.m3u8
 http://111.14.222.117:3333/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-id="50" tvg-logo="https://tb.zbds.top/logo/河北卫视.png" group-title="卫视频道", 河北卫视
 http://zh.sqitv.com:888/hls/54/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-id="50" tvg-logo="https://tb.zbds.top/logo/河北卫视.png" group-title="卫视频道", 河北卫视
+http://112.27.235.94:8000/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-id="148" tvg-logo="https://tb.zbds.top/logo/湖北卫视.png" group-title="卫视频道", 湖北卫视
 http://111.14.222.117:3333/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-id="148" tvg-logo="https://tb.zbds.top/logo/湖北卫视.png" group-title="卫视频道", 湖北卫视
