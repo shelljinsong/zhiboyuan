@@ -510,15 +510,14 @@ http://111.40.34.235:907/hls/61/index.m3u8
 #EXTINF:-2 group-title="卫视频道",四川卫视
 http://120.202.73.48:8888//tsfile/live/0123_1.m3u8
 #EXTINF:-2 group-title="卫视频道",白银文化教育ᴴᴰ
-https://play.kankanlive.com/live/1720408280309109.flv
+
 #EXTINF:-2 group-title="卫视频道",宁夏卫视
 http://zh.sqitv.com:888/hls/64/index.m3u8
 #EXTINF:-2 group-title="卫视频道",西藏卫视
 http://221.7.175.154:8445/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-2 group-title="卫视频道",文物宝库
 https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=af307b33c30771e9227960eee92da5e7&wsTime=1778162381
-#EXTINF:-2 group-title="卫视频道",四川卫视
-http://110.72.71.242:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-2 group-title="卫视频道",文物宝库
 https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=a43befe907faa050d8b1a8924b418f2d&wsTime=1778140707
 #EXTINF:-2 group-title="卫视频道",文物宝库
@@ -539,8 +538,7 @@ http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 #EXTINF:0,hjjc.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-#EXTINF:-2 group-title="卫视频道",广东卫视
-http://110.72.67.208:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-2 group-title="卫视频道",重温经典
 http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 
