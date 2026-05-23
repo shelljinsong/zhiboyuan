@@ -244,7 +244,7 @@ http://221.7.175.154:8445/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="177" tvg-logo="https://tb.zbds.top/logo/第一剧场.png" group-title="央视频道", 第一剧场
 http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctvdyjcpd&zy.m3u
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-id="第一剧场" tvg-logo="https://tb.zbds.top/logo/CCTV第一剧场.png" group-title="央视频道", CCTV第一剧场
-http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+
 
 #EXTINF:-1 tvg-name="中国天气" tvg-id="中国天气" tvg-logo="https://tb.zbds.top/logo/中国天气.png" group-title="央视频道", 中国天气
 http://123.113.205.253:3000/959986621
@@ -549,8 +549,6 @@ http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctvhjjcpd&zy.m3u8
 #EXTINF:-2 group-title="卫视频道",世界地理
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
-#EXTINF:0,hjjc.m3u8?auth=testpub
-http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 
 #EXTINF:-2 group-title="卫视频道",重温经典
 http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
