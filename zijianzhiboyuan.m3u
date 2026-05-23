@@ -247,7 +247,7 @@ http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctvdyjcpd&zy.m3u
 
 
 #EXTINF:-1 tvg-name="中国天气" tvg-id="中国天气" tvg-logo="https://tb.zbds.top/logo/中国天气.png" group-title="央视频道", 中国天气
-http://123.113.205.253:3000/959986621
+
 #EXTINF:-1 tvg-name="中国天气" tvg-id="中国天气" tvg-logo="https://tb.zbds.top/logo/中国天气.png" group-title="央视频道", 中国天气
 http://101.6.130.102:1234/959986621
 #EXTINF:-1 tvg-name="中国天气" tvg-id="中国天气" tvg-logo="https://tb.zbds.top/logo/中国天气.png" group-title="央视频道", 中国天气
