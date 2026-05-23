@@ -518,8 +518,7 @@ http://221.7.175.154:8445/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-2 group-title="卫视频道",CHC影迷电影
 http://hc8q.x3322.net:3000/952383261
-#EXTINF:-1 group-title="港台频道",凤凰资讯
-http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 #EXTINF:-2 group-title="卫视频道",苏州4K台
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
@@ -549,10 +548,17 @@ http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctvhjjcpd&zy.m3u8
 #EXTINF:-2 group-title="卫视频道",世界地理
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
-
 #EXTINF:-2 group-title="卫视频道",重温经典
 http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰卫视资讯台
+http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/ede3d9e09be28e5.png" group-title="港台频道",凤凰卫视中文台
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰卫视资讯台
+http://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港台频道",凤凰香港
+http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港台频道",东森新闻
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港台频道",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
@@ -571,12 +577,7 @@ rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="港台频道",公视
 
 
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/ede3d9e09be28e5.png" group-title="港台频道",凤凰卫视中文台
-http://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰卫视资讯台
-http://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港台频道",凤凰香港
-http://cdn6.163189.xyz/163189/fhhk
+
 #EXTINF:-1 group-title="港台频道",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS亚洲" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS亚洲.png" group-title="港台频道",TVBS亚洲
