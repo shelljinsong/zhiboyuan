@@ -617,3 +617,7 @@ rtmp://f13h.mine.nu/sat/tv771
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 group-title="港台频道",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+
+#EXTINF:-1 tvg-name="Now新闻" tvg-id="Now新闻" tvg-logo="https://tb.zbds.top/logo/Now新闻.png" group-title="港台频道", Now新闻
+http://cdn.163189.xyz/163189/now
+
