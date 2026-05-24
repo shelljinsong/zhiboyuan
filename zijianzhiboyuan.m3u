@@ -607,9 +607,9 @@ https://o11.163189.xyz/stream/tvb/fct/
 https://o11.163189.xyz/stream/tvb/mzt/
 
 
-#EXTINF:-1 group-title="港台频道",纬来育乐
+#EXTINF:-1 tvg-name="纬来育乐" tvg-id="纬来育乐" tvg-logo="https://tb.zbds.top/logo/纬来育乐.png" group-title="港台频道", 纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 group-title="港台频道",纬来体育
+#EXTINF:-1 tvg-name="纬来体育" tvg-id="纬来体育" tvg-logo="https://tb.zbds.top/logo/纬来体育.png" group-title="港台频道", 纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 group-title="港台频道",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
