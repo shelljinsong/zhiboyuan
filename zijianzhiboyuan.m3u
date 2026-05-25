@@ -480,8 +480,7 @@ http://221.7.175.154:8445/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-2 group-title="卫视频道",影迷电影
 http://itms3.sdlk.vip:3333/hls/63/index.m3u8
-#EXTINF:-2 group-title="卫视频道",CETV1
-http://itms3.sdlk.vip:3333/hls/56/index.m3u8
+
 #EXTINF:-2 group-title="卫视频道",金鹰卡通
 http://itms3.sdlk.vip:3333/hls/52/index.m3u8
 #EXTINF:-2 group-title="卫视频道",金鹰卡通
@@ -508,6 +507,8 @@ https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 http://111.14.222.117:3333/hls/56/index.m3u8
 #EXTINF:-2 group-title="卫视频道",CETV-1
 http://39.165.39.49:19901/tsfile/live/1090_1.m3u8
+#EXTINF:-2 group-title="卫视频道",CETV1
+http://itms3.sdlk.vip:3333/hls/56/index.m3u8
 #EXTINF:-2 group-title="卫视频道",东方财经
 http://111.40.34.235:907/hls/61/index.m3u8
 #EXTINF:-2 group-title="卫视频道",风云剧场
