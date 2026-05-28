@@ -12,9 +12,9 @@ http://39.164.138.145:8899/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="218" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
 http://27.12.12.31:1234/608807420
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="218" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
-http://8.135.27.147:1234/608807420
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="218" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
-http://59.110.175.70:10000/608807420
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="218" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
 http://120.226.246.71:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="218" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
@@ -22,7 +22,7 @@ http://111.14.222.117:3333/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="218" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
 http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="218" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
-https://newbndtxy.liveplay.myqcloud.com/newbnd/necctv1_2/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="218" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
 http://221.7.175.154:85/tsfile/live/1000_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="218" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
