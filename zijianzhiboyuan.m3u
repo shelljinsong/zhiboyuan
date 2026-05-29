@@ -654,4 +654,5 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 #EXTINF:-1 tvg-name="Now新闻" tvg-id="Now新闻" tvg-logo="https://tb.zbds.top/logo/Now新闻.png" group-title="港台频道", Now新闻
 http://cdn.163189.xyz/163189/now
-
+#EXTINF:-1 tvg-name="VOA美国之音" tvg-id="VoATVChina.cn@SD" tvg-logo="https://tb.zbds.top/logo/VOA美国之音.png" group-title="港台频道", VOA美国之音
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
